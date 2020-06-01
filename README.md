@@ -1,16 +1,17 @@
 # Spark _ Zeppelin
  
- ### Google Cloud Platform   
- ### apach spark    
- ### zeppelin   
+ - Google Cloud Platform   
+ - apach spark    
+ - zeppelin   
 
- > ![google-cloud-platform](https://user-images.githubusercontent.com/46242120/83444112-d8047d80-a485-11ea-923d-dd0d933f2b59.jpg)
+ > ![google-cloud-platform](https://user-images.githubusercontent.com/46242120/83445119-60cfe900-a487-11ea-8a09-124fe1db6958.png)
  > ![spark](https://user-images.githubusercontent.com/46242120/83443981-a12e6780-a485-11ea-8bc4-5b461a467dd5.png)
- > ![zeppelin](https://user-images.githubusercontent.com/46242120/83443987-a4295800-a485-11ea-898f-e98d41800bb1.jpg)
+ > ![zeppelin](https://user-images.githubusercontent.com/46242120/83444923-1484a900-a487-11ea-8e9d-819ff94bb29e.png)
 
 ------ 
 
 ## Google Cloud Platform 
 >> spark, hadoop 설치    
->> Zeppelin - Scala Language    
+-----
+## Zeppelin - Scala Language    
 >> SQL, twitter streaming, word2vec, Recommend    
